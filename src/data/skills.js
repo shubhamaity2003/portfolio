@@ -32,6 +32,10 @@ const skills = [
     level: "Beginner",
   },
   {
+    title: "Python",
+    level: "Intermediate",
+  },
+  {
     title: "Git",
     level: "Intermediate",
   },
